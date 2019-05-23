@@ -1,0 +1,47 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box; }
+
+.nav {
+  width: 100%;
+  background-color: black; }
+
+.navbar-brand {
+  font-size: 18px; }
+
+.item {
+  height: 550px; }
+
+.foot {
+  width: 100%;
+  height: 50px;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 15px;
+  padding-top: 15px; }
+
+.container {
+  margin-top: 50px;
+  width: 55%; }
+
+.big {
+  height: 325px;
+  width: 325px;
+  margin-bottom: 50px; }
+
+.row {
+  outline: 5px red solid;
+  text-align: center;
+  display: inline-block; }
+
+.img-responsive {
+  display: block;
+  max-width: 100%;
+  height: auto; }
+
+.in {
+  display: inline-block; }
+
+/*# sourceMappingURL=main.css.map */
