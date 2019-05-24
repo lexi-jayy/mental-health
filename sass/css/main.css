@@ -22,17 +22,13 @@
   font-size: 15px;
   padding-top: 15px; }
 
-.container {
-  margin-top: 50px;
-  width: 55%; }
+#top {
+  height: 10px; }
 
 .big {
   height: 325px;
   width: 325px;
   margin-bottom: 50px; }
-
-#pie {
-  width: 780px; }
 
 .row {
   outline: 5px red solid;
@@ -40,9 +36,6 @@
   display: inline-block; }
 
 .img-responsive {
-  display: block;
+  display: inline-block;
   max-width: 100%;
   height: auto; }
-
-.in {
-  display: inline-block; }
