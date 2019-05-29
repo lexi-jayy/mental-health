@@ -1,20 +1,35 @@
 #help {
-    width: 50%;
-    text-align: center;
+    text-align: left;
+    // width: 75%;
 }
-
-
 ol {
     list-style: none;
 }
 header{
     width: 100%;
-    height: 400px;
-}
-#image{
+    height: 600px;
     background-image: url('../../image/man.jpg');
-    width: 100%;
-    height: 400px;
-    position: absolute; /* Declared position allows for location changes */
-    top: -20px; /* Moves the image 2px closer to the top of the page */
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h2 ,h6, h1 {
+    text-align: center;
+}
+
+#spaceBetween {
+    margin-bottom: 50px;
+}
+
+#pad {
+    margin-top: 190px;
+    font-size: 100px; 
+}
+
+
+.box {
+    height: auto;
+    width: 600px;
+    float: center;
+    margin-left: auto;
+    margin-right: auto;
 }
