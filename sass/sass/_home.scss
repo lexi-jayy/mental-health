@@ -4,12 +4,22 @@
     background-size: cover;
 }
 
+.bg-light {
+    background-color: #0099a8!important;
+}
+
 #myCarousel {
     margin-top: 100px;
 }
 
-#title {
+.title {
     text-align: center;
     margin-top: 190px;
     font-size: 70px;
+    color: white;
+}
+
+
+.btn-bck {
+    background-color: white;
 }

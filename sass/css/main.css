@@ -30,6 +30,14 @@
   width: 325px;
   padding-bottom: 10px; }
 
+#gallery {
+  background-image: url("../../image/mental-health-port.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+#gal {
+  font-family: "Apple Chancery", cursive; }
+
 .row {
   text-align: center;
   display: inline-block; }
@@ -38,6 +46,9 @@
   display: inline-block;
   max-width: 100%;
   height: auto; }
+
+.col {
+  padding-top: 100px; }
 
 #help {
   text-align: left; }
@@ -76,10 +87,17 @@ h2, h6, h1 {
   background-repeat: no-repeat;
   background-size: cover; }
 
+.bg-light {
+  background-color: #0099a8 !important; }
+
 #myCarousel {
   margin-top: 100px; }
 
-#title {
+.title {
   text-align: center;
   margin-top: 190px;
-  font-size: 70px; }
+  font-size: 70px;
+  color: white; }
+
+.btn-bck {
+  background-color: white; }
