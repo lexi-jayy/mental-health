@@ -106,3 +106,13 @@ h2, h6, h1 {
   background-image: url("../../image/sun.jpg");
   background-repeat: no-repeat;
   background-size: cover; }
+
+#ban {
+  background-image: url("../../image/sky-background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover; }
+
+#inner-con {
+  padding-left: 15%;
+  padding-right: 15%;
+  padding-top: 20px; }
