@@ -39,7 +39,6 @@
   font-family: "Apple Chancery", cursive; }
 
 .row {
-  text-align: center;
   display: inline-block; }
 
 .img-responsive {
@@ -51,7 +50,9 @@
   padding-top: 100px; }
 
 #help {
-  text-align: left; }
+  text-align: left;
+  padding-left: 15%;
+  padding-right: 15%; }
 
 ol {
   list-style: none; }
@@ -68,19 +69,12 @@ header {
 h2, h6, h1 {
   text-align: center; }
 
-#spaceBetween {
+.spaceBetween {
   margin-bottom: 50px; }
 
 #pad {
   margin-top: 190px;
   font-size: 70px; }
-
-.box {
-  height: auto;
-  width: 600px;
-  float: center;
-  margin-left: auto;
-  margin-right: auto; }
 
 #home {
   background-image: url("../../image/mental-health.jpg");
@@ -112,7 +106,10 @@ h2, h6, h1 {
   background-repeat: no-repeat;
   background-size: cover; }
 
-#inner-con {
+.inner-con {
   padding-left: 15%;
   padding-right: 15%;
   padding-top: 20px; }
+
+#pic {
+  text-align: center; }

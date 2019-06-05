@@ -1,6 +1,7 @@
 #help {
     text-align: left;
-    // width: 75%;
+    padding-left: 15%;
+    padding-right: 15%;
 }
 ol {
     list-style: none;
@@ -19,20 +20,11 @@ h2 ,h6, h1 {
     text-align: center;
 }
 
-#spaceBetween {
+.spaceBetween {
     margin-bottom: 50px;
 }
 
 #pad {
     margin-top: 190px;
     font-size: 70px; 
-}
-
-
-.box {
-    height: auto;
-    width: 600px;
-    float: center;
-    margin-left: auto;
-    margin-right: auto;
 }
